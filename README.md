@@ -21,7 +21,7 @@ x"><--<img src= "><details/open/ontoggle=alert(`mindbl0w@bugcrodninja.com`)>> --
 ## Writeup List
 ##### No Rate Limiting to Bypass Phone Verification
 - [Rate Limit ~ Graylife](https://graylife.co/2019/infosec/perfectmoney-bug-bounty-otp-bypass-170)
-- [XSS in OLX Bug Bounty] (https://medium.com/@abaykandotcom/olx-bug-bounty-reflected-xss-adb3095cd525)
+- [XSS in OLX Bug Bounty](https://medium.com/@abaykandotcom/olx-bug-bounty-reflected-xss-adb3095cd525)
 ---
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
